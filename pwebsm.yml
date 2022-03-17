@@ -1,0 +1,7 @@
+dependencies:
+  - dir: "dev-dependencies/ui"
+    branch: "dev"
+    mode:
+      - dev
+    repo:
+      - url: "https://github.com/problemfighter/pf-pweb-i18n.git"
